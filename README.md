@@ -321,7 +321,7 @@ const kavishkaRavishan = {
 <a href="mailto:it23641624@my.sliit.lk">
   <img src="https://img.shields.io/badge/📧_EMAIL-GET_IN_TOUCH-facc15?style=for-the-badge&logo=gmail&logoColor=000&labelColor=1a1a1a" height="40"/>
 </a>
-<a href="https://www.linkedin.com/in/kavishka-ravishan/">
+<a href="https://www.linkedin.com/">
   <img src="https://img.shields.io/badge/💼_LINKEDIN-CONNECT-facc15?style=for-the-badge&logo=linkedin&logoColor=000&labelColor=1a1a1a" height="40"/>
 </a>
 <a href="https://github.com/ShanthanosJr">
