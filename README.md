@@ -21,7 +21,7 @@
     <img src="https://img.shields.io/badge/📧_CONTACT-SECURE_CHANNEL-facc15?style=for-the-badge&logo=gmail&logoColor=000&labelColor=1a1a1a&color=facc15" height="38"/>
   </a>
   &nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/kavishka-ravishan/">
+  <a href="https://www.linkedin.com/"
     <img src="https://img.shields.io/badge/🔗_NETWORK-PROFESSIONAL_HUB-facc15?style=for-the-badge&logo=linkedin&logoColor=000&labelColor=1a1a1a&color=facc15" height="38"/>
   </a>
   &nbsp;&nbsp;
