@@ -31,7 +31,7 @@
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=ShanthanosJr&show_icons=true&hide_title=true&bg_color=000000&title_color=facc15&text_color=ffffff&icon_color=facc15&hide_border=true&cache_seconds=86400"
+    src="https://github-readme-stats.vercel.app/api?username=ShanthanosJr&show_icons=true&hide_title=true&bg_color=000000&title_color=facc15&text_color=ffffff&icon_color=facc15&hide_border=true
     alt="GitHub stats"
   />
 </p>
