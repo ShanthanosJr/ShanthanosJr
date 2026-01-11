@@ -31,22 +31,14 @@
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=ShanthanosJr&show_icons=true&hide_title=true&bg_color=000000&title_color=facc15&text_color=ffffff&icon_color=facc15&hide_border=true"
+    src="https://github-readme-stats.vercel.app/api?username=ShanthanosJr&show_icons=true&hide_title=true&bg_color=000000&title_color=facc15&text_color=ffffff&icon_color=facc15&hide_border=true&cache_seconds=86400"
     alt="GitHub stats"
   />
 </p>
-
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShanthanosJr&layout=compact&bg_color=000000&title_color=facc15&text_color=ffffff&hide_border=true"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShanthanosJr&layout=compact&bg_color=000000&title_color=facc15&text_color=ffffff&hide_border=true&cache_seconds=86400"
     alt="Top languages"
-  />
-</p>
-
-<p align="center">
-  <img
-    src="https://github-readme-streak-stats.herokuapp.com?user=ShanthanosJr&background=000000&border=000000&ring=facc15&fire=facc15&currStreakLabel=facc15&sideNums=ffffff&sideLabels=ffffff&dates=71717a"
-    alt="GitHub streak"
   />
 </p>
 
