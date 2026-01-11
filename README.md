@@ -19,8 +19,9 @@
 </p>
 
 ---
-
-### 🧩 About
+<div align="center">
+  <h3> 🧩 About </h3>
+</div>
 
 - 🔭 Currently building **Smart Construction Workflow & Safety Management System** (MERN + Spring Boot).  
 - 🌱 Deep-diving into **advanced React patterns, backend optimization (Node.js / Spring Boot), and database performance (MongoDB / MySQL)**.  
@@ -30,6 +31,7 @@
 
 <div align="center">
   <h3>🛠️ Tech Stack</h3>
+  
   <img src="https://skillicons.dev/icons?i=java,spring,react,html,css,js,mongodb,mysql,git,github,vscode&theme=dark" alt="My Skills" />
 </div>
 
@@ -37,7 +39,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=FACC15&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Java+%26+Spring+Boot;React+%26+Modern+UI;Always+Learning..." alt="Typing SVG" />
 </div>
 
-
+---
 <!-- Languages -->
 <p align="center">
   <img src="https://img.shields.io/badge/C-000000?style=for-the-badge&logo=c&logoColor=facc15" />
@@ -118,7 +120,11 @@
   <img src="https://img.shields.io/badge/Zapier-000000?style=for-the-badge&logo=zapier&logoColor=facc15" />
 </p>
 
-### 🚀 Featured Project
+---
+
+<div align="center">
+  <h3> 🚀 Featured Project</h3>
+</div>
 
 <a href="https://github.com/ShanthanosJr/WFS-ENG">
   <img src="https://img.shields.io/badge/Smart%20Construction%20Workflow-111111?style=for-the-badge&logo=github&logoColor=facc15" />
