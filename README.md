@@ -34,12 +34,9 @@
   <img src="https://skillicons.dev/icons?i=java,spring,react,html,css,js,mongodb,mysql,git,github,vscode&theme=dark" alt="My Skills" />
 </div>
 
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShanthanosJr&layout=compact&bg_color=000000&title_color=facc15&text_color=ffffff&hide_border=true&cache_seconds=86400"
-    alt="Top languages"
-  />
-</p>
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=FACC15&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Java+%26+Spring+Boot;React+%26+Modern+UI;Always+Learning..." alt="Typing SVG" />
+</div>
 
 ### 🛠 Tech Stack
 
