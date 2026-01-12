@@ -6,7 +6,7 @@
 <!-- Animated Typing Effect -->
 <p align="center">
   <a href="https://portfolio-2-0-nine-green.vercel.app">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=4000&pause=1000&color=FACC15&center=true&vCenter=true&width=900&height=80&lines=System+Architect+%7C%7C+Full+Stack+Engineer;Building+Intelligent+and+Scalable+Solutions;MERN+Stack+%E2%80%A2+Spring+Boot+%E2%80%A2+Cloud+Tech;BSc+IT+Specializing+in+Data+Science;Architecting+Premium+Digital+Ecosystems" alt="Typing Animation" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=4000&pause=1000&color=FACC15&center=true&vCenter=true&width=900&height=80&lines=System+Architect+%7C%7C+Full+Stack+Engineer;Building+Intelligent+and+Scalable+Solutions;MERN+Stack+%E2%80%A2+Spring+Boot+%E2%80%A2+Cloud+Tech;BSc+IT+Specializing+in+Information+Technology;Architecting+Premium+Digital+Ecosystems" alt="Typing Animation" />
   </a>
 </p>
 <br/>
