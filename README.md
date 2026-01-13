@@ -25,7 +25,7 @@
     <img src="https://img.shields.io/badge/🔗_NETWORK-PROFESSIONAL_HUB-facc15?style=for-the-badge&logo=linkedin&logoColor=000&labelColor=1a1a1a&color=facc15" height="38"/>
   </a>
   &nbsp;&nbsp;
-  <a href="https://github.com/ShanthanosJr">
+  <a href="https://github.com/ShanthanosJr"
     <img src="https://img.shields.io/badge/⭐_GITHUB-CODE_VAULT-facc15?style=for-the-badge&logo=github&logoColor=facc15&labelColor=1a1a1a&color=000" height="38"/>
   </a>
 </p>
