@@ -104,11 +104,11 @@
 
 <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv,sklearn&theme=dark&perline=4" />
 
-<br/>
+<br/><br/>
 
 <!-- Tech Stack in Badge Format -->
 <details>
-<summary><b>🔍 VIEW COMPLETE TECH MATRIX</b></summary>
+<summary><b>🔍 CLICK TO VIEW COMPLETE TECH MATRIX</b></summary>
 <br/>
 
 **LANGUAGES**
