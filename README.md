@@ -42,7 +42,7 @@
 ```yaml
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 🎯 OPERATIVE         : Information Technology Specialist
-📍 LOCATION          : Pannipitiya, Western Province, Sri Lanka  
+📍 LOCATION          : Kottawa, Western Province, Sri Lanka  
 🎓 CREDENTIALS       : BSc (Hons) IT | Information Technology 
 ⚡ CURRENT MISSION   : Smart Construction Workflow & Safety System
 🔥 CORE PHILOSOPHY   : "Code is Poetry, Architecture is Art"
