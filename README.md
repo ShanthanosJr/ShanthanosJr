@@ -86,7 +86,7 @@
 
 ### 🛡️ **DEFENSE SYSTEMS** // Frontend Frameworks
 
-<img src="https://skillicons.dev/icons?i=html,css,sass,tailwind,bootstrap,vue,flutter,androidstudio,figma,photoshop&theme=dark&perline=10" />
+<img src="https://skillicons.dev/icons?i=html,css,sass,tailwind,bootstrap,vue,flutter,androidstudio,wordpress,figma,photoshop&theme=dark&perline=10" />
 
 ### ⚙️ **BACKEND INFRASTRUCTURE** // Servers & APIs
 
@@ -152,6 +152,7 @@
 <img src="https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=facc15"/>
 <img src="https://img.shields.io/badge/GitHub_Actions-000000?style=for-the-badge&logo=githubactions&logoColor=facc15"/>
 <img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=facc15"/>
+<img src="https://img.shields.io/badge/wordpress-000000?style=for-the-badge&logo=linux&logoColor=facc15"/>
 </p>
 
 </details>
