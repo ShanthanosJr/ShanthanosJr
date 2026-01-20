@@ -86,7 +86,7 @@
 
 ### 🛡️ **DEFENSE SYSTEMS** // Frontend Frameworks
 
-<img src="https://skillicons.dev/icons?i=html,css,sass,tailwind,bootstrap,vue,flutter,androidstudio,wordpress,figma,photoshop&theme=dark&perline=10" />
+<img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,vue,flutter,androidstudio,wordpress,figma,photoshop&theme=dark&perline=10" />
 
 ### ⚙️ **BACKEND INFRASTRUCTURE** // Servers & APIs
 
