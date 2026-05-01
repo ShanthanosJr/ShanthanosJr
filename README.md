@@ -39,8 +39,8 @@
 
 <div align="center">
 
-## SYSTEM OVERVIEW  
-*Core Identity & Operational Scope*
+<h2 style="color:#facc15;">TECHNOLOGY STACK</h2>
+<p><i>Advanced tools, frameworks, and systems</i></p>
 
 </div>
 
@@ -84,33 +84,38 @@
 <div align="center">
 
 ## TECHNOLOGY STACK  
-*Advanced tools, frameworks, and systems*
 
 </div>
 
 <div align="center">
 
-### ⚔️ **PRIMARY WEAPONS** // Languages & Core
+### CORE TECHNOLOGIES  
+*Languages and primary development stack*
 
 <img src="https://skillicons.dev/icons?i=java,spring,react,nextjs,nodejs,typescript,python,cpp,kotlin,php&theme=dark&perline=10" />
 
-### 🛡️ **DEFENSE SYSTEMS** // Frontend Frameworks
+### FRONTEND LAYER  
+*User interfaces, design systems, and client technologies*
 
 <img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,vue,flutter,androidstudio,wordpress,figma,photoshop&theme=dark&perline=10" />
 
-### ⚙️ **BACKEND INFRASTRUCTURE** // Servers & APIs
+### BACKEND ARCHITECTURE  
+*APIs, services, and server-side systems*
 
 <img src="https://skillicons.dev/icons?i=express,django,dotnet,nginx,graphql,firebase,postman,docker&theme=dark&perline=8" />
 
-### 🗄️ **DATA FORTRESSES** // Databases
+### DATA LAYER  
+*Databases, storage, and data management*
 
 <img src="https://skillicons.dev/icons?i=mongodb,mysql,sqlite,postgres,redis,prisma&theme=dark&perline=6" />
 
-### ☁️ **CLOUD OPERATIONS** // DevOps & Deployment
+### CLOUD & DEVOPS  
+*Deployment, infrastructure, and CI/CD pipelines*
 
 <img src="https://skillicons.dev/icons?i=aws,azure,gcp,vercel,netlify,git,github,githubactions,linux&theme=dark&perline=9" />
 
-### 📊 **INTELLIGENCE SYSTEMS** // Data & Analytics
+### DATA & AI  
+*Machine learning, analytics, and data processing*
 
 <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv,sklearn&theme=dark&perline=4" />
 
