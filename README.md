@@ -37,7 +37,12 @@
 
 </div>
 
-## <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="30" /> &nbsp;**MISSION CONTROL** // System Overview
+<div align="center">
+
+## SYSTEM OVERVIEW  
+*Core Identity & Operational Scope*
+
+</div>
 
 ```yaml
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
@@ -51,7 +56,7 @@
 
 <div align="center">
 
-### 💭 **OPERATIONAL PHILOSOPHY**
+### **OPERATIONAL PHILOSOPHY**
 
 <table>
 <tr>
@@ -76,7 +81,12 @@
 
 </div>
 
-## <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="35" /> &nbsp;**TECH ARSENAL** // Advanced Stack
+<div align="center">
+
+## TECHNOLOGY STACK  
+*Advanced tools, frameworks, and systems*
+
+</div>
 
 <div align="center">
 
@@ -161,8 +171,12 @@
 
 </div>
 
-## <img src="https://user-images.githubusercontent.com/74038190/216122069-5b8169d7-1d8e-4a13-b245-a8e4176c99f8.png" width="35" /> &nbsp;**PROJECT VAULT** // Featured Builds
+<div align="center">
 
+## PROJECTS  
+*Selected builds and engineering work*
+
+</div>
 <div align="center">
 
 <table>
@@ -258,8 +272,12 @@ Deployment: AWS | Kubernetes
 
 </div>
 
-## <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="30" /> &nbsp;**ANALYTICS DASHBOARD** // GitHub Performance
+<div align="center">
 
+## PERFORMANCE METRICS  
+*GitHub activity and contribution insights*
+
+</div>
 <div align="center">
 
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=ShanthanosJr&show_icons=true&theme=radical&bg_color=000000&title_color=facc15&icon_color=facc15&text_color=ffffff&border_color=facc15&hide_border=false&border_radius=10" />
@@ -275,7 +293,12 @@ Deployment: AWS | Kubernetes
 
 </div>
 
-## <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="30" /> &nbsp;**CURRENT OBJECTIVES** // Active Missions
+<div align="center">
+
+## CURRENT FOCUS  
+*Active work, learning, and development priorities*
+
+</div>
 
 ```javascript
 const kavishkaRavishan = {
