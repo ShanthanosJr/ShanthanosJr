@@ -39,7 +39,7 @@
 
 <div align="center">
 
-<h2 style="color:#facc15;">TECHNOLOGY STACK</h2>
+<h2 style="color:#facc15;"> Overview </h2>
 <p><i>Advanced tools, frameworks, and systems</i></p>
 
 </div>
@@ -56,7 +56,7 @@
 
 <div align="center">
 
-### **OPERATIONAL PHILOSOPHY**
+###  **OPERATIONAL PHILOSOPHY** 
 
 <table>
 <tr>
@@ -188,7 +188,51 @@
 <tr>
 <td width="50%">
 
-### 🏗️ [Smart Construction System](https://github.com/ShanthanosJr/WFS-ENG)
+### 🌐 [SliitNex](https://github.com/ShanthanosJr/SliitNex)
+
+<img src="https://img.shields.io/badge/STATUS-ACTIVE_DEVELOPMENT-facc15?style=for-the-badge&labelColor=000"/>
+
+**Exclusive social utility ecosystem for SLIIT students**
+
+- 💜 **Soul Sync** — swipe matching, real-time chat & incognito
+- 🛒 **Uni-Mart** — campus e-commerce with 10-min bookings
+- 🤝 **Project Synergy** — skill-based collaboration & bounties
+- 🏪 **Campus Marketplace** —P2P listings for student goods
+```yaml
+Tech: MongoDB | Express | React 18 | Node.js
+UI: Tailwind CSS v4 | Framer Motion
+State: Redux Toolkit | Socket.io
+Testing: Jest (181 tests) | Playwright
+```
+
+</td>
+<td width="50%">
+  
+### 📚 [Ink & Pens BookShop](https://github.com/ShanthanosJr/Ink_-_Pen_Bookstore.git)
+
+<img src="https://img.shields.io/badge/STATUS-PRODUCTION_READY-facc15?style=for-the-badge&labelColor=000"/>
+
+**Full-Stack E-commerce Platform for Books**
+
+- 🔐 JWT authentication with BCrypt password hashing
+- 🛒 Shopping cart, order management & checkout flow
+- 💳 Cash, card & bank transfer payment processing
+- 📤 Payment slip upload for bank transfers
+
+```yaml
+Backend: ASP.NET Core 8 | Entity Framework Core
+Database: SQLite | Swagger API Docs
+Frontend: React 18 + Vite | Tailwind CSS
+State: Context API | Axios | React Router
+```
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### 🏗️ [Workflows Engineering](https://github.com/ShanthanosJr/WFS-ENG)
 
 <img src="https://img.shields.io/badge/STATUS-ACTIVE_DEVELOPMENT-facc15?style=for-the-badge&labelColor=000"/>
 
@@ -231,42 +275,43 @@ Database: MySQL | Redis Cache
 <tr>
 <td width="50%">
 
-### 🧠 [MindOfMine](https://github.com/ShanthanosJr/MindOfMine)
+### 💎 [Auram Jewelry](https://github.com/ShanthanosJr/auram_Jewelry.git)
 
-<img src="https://img.shields.io/badge/STATUS-MOBILE_APP-facc15?style=for-the-badge&labelColor=000"/>
+<img src="https://img.shields.io/badge/STATUS-LIVE-facc15?style=for-the-badge&labelColor=000"/>
 
-**Mental health tracking Android application**
+**Luxurious jewelry e-commerce frontend**
 
-- 📱 Mood journaling with sentiment analysis
-- 📊 Visualization of emotional patterns
-- 🔔 Smart reminders & wellness tips
-- 🎨 Built with **Kotlin + Room + MVVM**
+- ✨ Minimalist high-end aesthetic & elegant design
+- 📱 Fully responsive layout for all devices
+- 🛍️ Premium shopping experience with modern UI
+- 🎨 Remix of Linea Jewelry by Lovable
 
 ```yaml
-Platform: Android (Kotlin)
-Architecture: MVVM | Clean Architecture  
-Database: Room | SQLite
-UI: Material Design 3
+Framework: React + Vite
+Styling: Tailwind CSS
+Design: Minimalist | High-End | Responsive
+Attribution: Remix of Linea Jewelry (Lovable)
 ```
 
 </td>
 <td width="50%">
 
-### 🎯 More Projects Coming Soon...
+### 🏛️ [Smart Campus Hub](https://github.com/ShanthanosJr/it3030-paf-2026-smart-campus-Y3S1-WE-68.git)
 
-<img src="https://img.shields.io/badge/STATUS-IN_DEVELOPMENT-facc15?style=for-the-badge&labelColor=000"/>
+<img src="https://img.shields.io/badge/STATUS-COMPLETED-facc15?style=for-the-badge&labelColor=000"/>
 
-**Currently architecting next-gen solutions**
+**Integrated campus resource & maintenance platform**
 
-- 🤖 AI-powered recommendation system
-- 🌐 Microservices architecture playground
-- 📊 Real-time data visualization platform
-- ☁️ Cloud-native serverless apps
+- 🔐 Google OAuth 2.0 + Role-based access (User/Technician/Admin)
+- 📅 Facility booking with automated approval workflows
+- 🛠️ Incident ticketing with technician assignment & tracking
+- 📱 QR code system for quick resource check-ins
 
 ```yaml
-Focus: Scalability | Performance | UX
-Stack: Next.js | GraphQL | Serverless
-Deployment: AWS | Kubernetes
+Backend: Java 21 | Spring Boot 4.x | MongoDB Atlas
+Frontend: React 18 + Vite | Tailwind CSS
+Auth: Spring Security | OAuth2
+UI: Framer Motion | Recharts | Lucide React
 ```
 
 </td>
