@@ -194,10 +194,10 @@
 
 **Exclusive social utility ecosystem for SLIIT students**
 
-- 💜 **Soul Sync** — swipe matching, real-time chat & incognito
-- 🛒 **Uni-Mart** — campus e-commerce with 10-min bookings
-- 🤝 **Project Synergy** — skill-based collaboration & bounties
-- 🏪 **Campus Marketplace** —P2P listings for student goods
+- 💜 Swipe-based matching, real-time chat & incognito mode
+- 🛒 Campus e-commerce with 10-min bookings & print service
+- 🤝 Skill-based student collaboration & bounty board
+- 🏪 P2P listings for textbooks, electronics & more
 ```yaml
 Tech: MongoDB | Express | React 18 | Node.js
 UI: Tailwind CSS v4 | Framer Motion
