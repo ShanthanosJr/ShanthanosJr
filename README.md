@@ -49,7 +49,7 @@
 🎯 OPERATIVE         : Information Technology Specialist
 📍 LOCATION          : Kottawa, Western Province, Sri Lanka  
 🎓 CREDENTIALS       : BSc (Hons) IT | Information Technology 
-⚡ CURRENT MISSION   : Smart Construction Workflow & Safety System
+⚡ CURRENT Schooling  : Sri Lanka Institute of Information Technology
 🔥 CORE PHILOSOPHY   : "Code is Poetry, Architecture is Art"
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 ```
