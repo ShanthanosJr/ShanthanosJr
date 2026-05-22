@@ -13,7 +13,7 @@
 
 <!-- Premium Badge Section with Hover Effects -->
 <p align="center">
-  <a href="https://portfolio-2-0-nine-green.vercel.app">
+  <a href="https://kavishka-portfolio-iota.vercel.app/">
     <img src="https://img.shields.io/badge/⚡_PORTFOLIO-LIVE_SYSTEM-facc15?style=for-the-badge&logo=vercel&logoColor=000&labelColor=1a1a1a&color=facc15" height="38"/>
   </a>
   &nbsp;&nbsp;
