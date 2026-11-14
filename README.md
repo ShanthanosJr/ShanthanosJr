@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Animated Header with Gradient Wave -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,0,0,0,0,0&height=300&section=header&text=KAVISHKA%20RAVISHAN&fontSize=80&fontColor=facc15&animation=twinkling&fontAlignY=35&desc=ARCHITECT%20OF%20DIGITAL%20ECOSYSTEMS&descSize=20&descAlignY=55&descAlign=50" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,0,0,0,0,0&height=300&section=header&text=KAVISHKA%20RANAMUKAGE&fontSize=60&fontColor=facc15&animation=twinkling&fontAlignY=35&desc=ARCHITECT%20OF%20DIGITAL%20ECOSYSTEMS&descSize=20&descAlignY=55&descAlign=50" width="100%"/>
 
 <!-- Animated Typing Effect -->
 <p align="center">
