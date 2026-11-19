@@ -389,10 +389,10 @@ const kavishkaRavishan = {
 
 ## <img src="https://user-images.githubusercontent.com/74038190/216120981-b9507c36-0e04-4469-8e27-c99271b45ba5.png" width="30" /> &nbsp;**CONNECT & COLLABORATE**
 
-<a href="https://portfolio-2-0-nine-green.vercel.app">
+<a href="https://kavishka-portfolio-iota.vercel.app/">
   <img src="https://img.shields.io/badge/🌐_PORTFOLIO-VISIT_NOW-facc15?style=for-the-badge&logo=vercel&logoColor=000&labelColor=1a1a1a" height="40"/>
 </a>
-<a href="mailto:it23641624@my.sliit.lk">
+<a href="mailto:shaan.pc1234@gmail.com">
   <img src="https://img.shields.io/badge/📧_EMAIL-GET_IN_TOUCH-facc15?style=for-the-badge&logo=gmail&logoColor=000&labelColor=1a1a1a" height="40"/>
 </a>
 <a href="https://www.linkedin.com/in/kavishka-ranamukage-4869663a5">
