@@ -17,7 +17,7 @@
     <img src="https://img.shields.io/badge/⚡_PORTFOLIO-LIVE_SYSTEM-facc15?style=for-the-badge&logo=vercel&logoColor=000&labelColor=1a1a1a&color=facc15" height="38"/>
   </a>
   &nbsp;&nbsp;
-  <a href="mailto:it23641624@my.sliit.lk">
+  <a href="mailto:shaan.pc1234@gmail.com">
     <img src="https://img.shields.io/badge/📧_CONTACT-SECURE_CHANNEL-facc15?style=for-the-badge&logo=gmail&logoColor=000&labelColor=1a1a1a&color=facc15" height="38"/>
   </a>
   &nbsp;&nbsp;
